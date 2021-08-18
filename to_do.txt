@@ -1,0 +1,13 @@
+Install node.js
+Install yarn
+Truffle
+
+1. npx create-react-app name
+2. Yarn add redux
+3. Yarn add redux-thunk
+4. Yarn add react-redux
+5. Yarn add web3
+6. Yarn add styled-components
+7. Yarn add @openzeppelin/contracts
+
+ganache-cli -d --allowUnlimitedContractSize
